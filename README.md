@@ -66,11 +66,11 @@ Visit the live terminal interface directly at: **[https://www.jiwax.icu/](https:
 
 Keep jiwax infrastructure fast, free, and accessible to everyone! Your contributions help cover edge server costs, domain renewals, and feature development.
 
-| Platform | Link | Currency |
-| :--- | :--- | :--- |
-| **SociaBuzz** | [Buy me a Snack](https://sociabuzz.com/jiwax/support) | 🇮🇩 IDR |
-| **Ko-fi** | [Buy me a coffee](https://ko-fi.com/jiwaxofficial) | ☕ USD |
-| **NOWPayments** | [Crypto Support](https://nowpayments.io/donation/jiwax) | ₿ Crypto |
+| Support jiwax | Currency |
+| :--- | :--- |
+| [**Buy me a Snack**](https://sociabuzz.com/jiwax/support) | 🇮🇩 IDR |
+| [**Buy me a coffee**](https://ko-fi.com/jiwaxofficial) | ☕ USD |
+| [**Crypto Support**](https://nowpayments.io/donation/jiwax) | ₿ Crypto |
 
 ---
 
