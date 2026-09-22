@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 jiwax
+# jiwax
 
 > **Free, fast, and dynamic web utilities with an immersive retro terminal simulator experience in your browser.**
 
@@ -66,11 +66,11 @@ Visit the live terminal interface directly at: **[https://www.jiwax.icu/](https:
 
 Keep jiwax infrastructure fast, free, and accessible to everyone! Your contributions help cover edge server costs, domain renewals, and feature development.
 
-| Platform | Link | Currency |
+| Support jiwax | Currency |
 | :--- | :--- | :--- |
-| **SociaBuzz** | [Buy me a Snack] (https://sociabuzz.com/jiwax/support) | 🇮🇩 IDR |
-| **Ko-fi** | [Buy me a coffee](https://ko-fi.com/jiwaxofficial) | ☕ USD |
-| **NOWPayments** | [Crypto Supportion](https://nowpayments.io/donation/jiwax) | ₿ Crypto |
+| **Buy me a Snack** | (https://sociabuzz.com/jiwax/support) | ☕ USD |
+| **Buy me a coffee** | (https://ko-fi.com/jiwaxofficial) | ☕ USD |
+| **Crypto Supportion** | (https://nowpayments.io/donation/jiwax) | ₿ Crypto |
 
 ---
 
